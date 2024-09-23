@@ -21,7 +21,7 @@
 
 ## Windows
 **If you've already installed a previous version of the layout,** you must uninstall it before proceeding with the installation. You may need to restart your computer after uninstalling the layout.
-1. Download the `kbditp-windows.zip` file from the [the latest release](https://github.com/Unfowoseen/italian-programmers-keyboard/releases/latest).
+1. Download the `kbditp-windows.zip` file from [the latest release](https://github.com/Unfowoseen/italian-programmers-keyboard/releases/latest).
 2. Uncompress the zip file with your program of choice.
 3. Run the `setup.exe` file.
 4. If the layout does not appear in your language list, restart your computer.
