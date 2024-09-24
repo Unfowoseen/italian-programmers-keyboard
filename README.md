@@ -25,3 +25,13 @@
 2. Uncompress the zip file with your program of choice.
 3. Run the `setup.exe` file.
 4. If the layout does not appear in your language list, restart your computer.
+
+# Building
+
+## Windows
+In order to build the keyboard layout for Windows by yourself, you must install the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134) (MSKLC) or another program that is capable of building a keyboard layout DLL from a .klc file.
+
+1. Clone the repository.
+2. Launch MSKLC.
+3. In the toolbar, select File > "Load Source File..." and pick the .klc file from the repository's `src` folder.
+4. Select Project > "Build DLL and Setup Package".
